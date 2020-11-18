@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fc19eff44ae57ca419de1108363745b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpaceShip: {fileID: 1529016618070176, guid: da3e05db543fb394c9e32aa69a67ad1b,
+      type: 3}
+  - SpawnPoint: {instanceID: 0}
+  - WinningUI: {fileID: 870701140903348422, guid: 1f370db0cd6b7994f9bc741c9b2bd9c2,
+      type: 3}
+  - gameOverUI: {fileID: 4735753487680670308, guid: 67edd4b10d955ba459ea491265cd097a,
+      type: 3}
+  - anim: {fileID: 870701140903348427, guid: 1f370db0cd6b7994f9bc741c9b2bd9c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

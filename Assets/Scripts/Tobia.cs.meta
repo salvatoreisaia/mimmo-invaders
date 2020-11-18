@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 707beb94c52f748489df1348c48b4e85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidBody: {instanceID: 0}
+  - Cannolo: {fileID: 1695749028189952, guid: 5923c41f0f26a1c4e88f90f5b6100b20, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

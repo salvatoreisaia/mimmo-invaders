@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2674cd04c81ec6846b2fb64134d66e94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - alienBuzz1: {instanceID: 0}
+  - alienBuzz2: {instanceID: 0}
+  - alienDies: {instanceID: 0}
+  - bulletFire: {instanceID: 0}
+  - shipExplosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
